@@ -1,0 +1,443 @@
+Cmp-Mod V01 Created by PcbNew   date = 03/05/2019 19:28:51
+
+BeginCmp
+TimeStamp = 5CCC06B2
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_2.1mm;
+IdModule  = MountingHole:MountingHole_2.1mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCC06A1
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_2.1mm;
+IdModule  = MountingHole:MountingHole_2.1mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCC0657
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_2.1mm;
+IdModule  = MountingHole:MountingHole_2.1mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCBF951
+Path = /5CD0649B
+Reference = CONT;
+ValeurCmp = Control voltage;
+IdModule  = 555:555pinpad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFECE
+Path = /5CDFD983
+Reference = Q19;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFFDB
+Path = /5CD88CC6
+Reference = R5;
+ValeurCmp = 4.7K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFFAD
+Path = /5CCC322F
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB8763
+Path = /5CEED431
+Reference = OUT;
+ValeurCmp = Output;
+IdModule  = 555:555pinpad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFCCA
+Path = /5CC96FA7
+Reference = VCC;
+ValeurCmp = VCC;
+IdModule  = 555:555pinpad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCBF8F3
+Path = /5CCB7D03
+Reference = THRES;
+ValeurCmp = Threshold;
+IdModule  = 555:555pinpad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFCDE
+Path = /5CD00972
+Reference = GND;
+ValeurCmp = GND;
+IdModule  = 555:555pinpad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFCFC
+Path = /5CEEE231
+Reference = TRIG;
+ValeurCmp = Trigger;
+IdModule  = 555:555pinpad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFD06
+Path = /5CEEB26E
+Reference = RESET;
+ValeurCmp = Reset;
+IdModule  = 555:555pinpad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCBF826
+Path = /5CEEC6D5
+Reference = DISCH;
+ValeurCmp = Discharge;
+IdModule  = 555:555pinpad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB837F
+Path = /5CFD46D7
+Reference = J5;
+ValeurCmp = jtag;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFD42
+Path = /5CCA945C
+Reference = Q1;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFD58
+Path = /5CCC4757
+Reference = Q2;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB9DA8
+Path = /5CCAE264
+Reference = Q3;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFD84
+Path = /5CCC915C
+Reference = Q4;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFD9A
+Path = /5CCCBADD
+Reference = Q5;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFDB0
+Path = /5CCAFCA2
+Reference = Q6;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFDC6
+Path = /5CCCE840
+Reference = Q7;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFDDC
+Path = /5CCB3FFE
+Reference = Q8;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFDF2
+Path = /5CD12F97
+Reference = Q9;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFE08
+Path = /5CD14FB3
+Reference = Q10;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFE1E
+Path = /5CD0B4CF
+Reference = Q11;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFE34
+Path = /5CD173DB
+Reference = Q12;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFE4A
+Path = /5CD193A0
+Reference = Q13;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFE60
+Path = /5CDAA39F
+Reference = Q14;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFE76
+Path = /5CE07004
+Reference = Q15;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB7EA9
+Path = /5CDABDD6
+Reference = Q16;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB7E6A
+Path = /5CDF9570
+Reference = Q17;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFEB8
+Path = /5CE002C5
+Reference = Q18;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFEE4
+Path = /5CDC4F1C
+Reference = Q20;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB8299
+Path = /5CE65A51
+Reference = Q21;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB8409
+Path = /5CE6FA94
+Reference = Q22;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB825A
+Path = /5CE745AE
+Reference = Q23;
+ValeurCmp = 2N3906;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB83CA
+Path = /5CE68E8F
+Reference = Q24;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFF52
+Path = /5CE72896
+Reference = Q25;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB844B
+Path = /5CE793F0
+Reference = Q26;
+ValeurCmp = 2N3904;
+IdModule  = digikey-footprints:TO-92-3_Formed_Leads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFF7F
+Path = /5CCA1026
+Reference = R1;
+ValeurCmp = 4.7K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFF96
+Path = /5CCA25E6
+Reference = R2;
+ValeurCmp = 820;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFFC4
+Path = /5CCA34F5
+Reference = R4;
+ValeurCmp = 4.7K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCAFFF2
+Path = /5CD52EB1
+Reference = R6;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB0009
+Path = /5CD53A21
+Reference = R7;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB0020
+Path = /5CD37A25
+Reference = R8;
+ValeurCmp = 100K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB0037
+Path = /5CD0E59F
+Reference = R9;
+ValeurCmp = 1K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB004E
+Path = /5CDB7E9A
+Reference = R10;
+ValeurCmp = 15K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB0065
+Path = /5CDB8FAE
+Reference = R11;
+ValeurCmp = 4.7K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB8F3C
+Path = /5CDB7133
+Reference = R12;
+ValeurCmp = 6.8K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCC09E3
+Path = /5CE41260
+Reference = R13;
+ValeurCmp = 4.7K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB00AA
+Path = /5CEC0666
+Reference = R14;
+ValeurCmp = 100;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCC0141
+Path = /5CE6EA08
+Reference = R15;
+ValeurCmp = 3.9K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB00D8
+Path = /5CE70DF9
+Reference = R16;
+ValeurCmp = 220;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CCB00EF
+Path = /5CE7B761
+Reference = R17;
+ValeurCmp = 100K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+EndListe

@@ -6,15 +6,25 @@ Use KICAD 5.1 as Schematic & Pcb design software .
 
 Production Gerber files included .
 
-![Image](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/kicad_EuZ9s3C94y.png)
+layout
 
-![Image](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/kicad_iWUiIRrrlE.png)
+![layout](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/kicad_EuZ9s3C94y.png)
 
-![Image](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/IMG_20190520_094422.jpg)
+3d rendering
 
-![Image](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/IMG_20190520_190824.jpg)
+![3d rendering](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/kicad_iWUiIRrrlE.png)
 
-![Image](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/NewFile1.jpg)
+pcb
 
-![Image](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/NewFile2.jpg)
+![pcb](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/IMG_20190520_094422.jpg)
+
+assembled
+
+![assembled](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/IMG_20190520_190824.jpg)
+
+testing wavefome
+
+![testing wavefome](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/NewFile1.jpg)
+
+![testing wavefome](https://github.com/LAIHAO-MOD/555-TIMER/blob/master/pictures/NewFile2.jpg)
 
